@@ -1,0 +1,61 @@
+.header{
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+    background-color: rgb(73, 63, 6);
+}
+.container{
+    border: 0.2px solid rgb(119, 116, 116);
+    box-shadow: rgb(133, 131, 131);
+    margin: 50px 20% 50px 20%;
+}
+.heading{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 10px;
+}
+#span{
+    margin-left: 165px;
+}
+#searchbar{
+    width: 50%;
+    margin-right: 0px;
+    height: 25px;
+}
+#button{
+    width: 70px;
+    height: 31px;
+    margin-left: -5px;
+    background-color: rgb(6, 6, 97);
+    color: white;
+    border: none;
+    font-weight: 700;
+}
+#spcial{
+    margin-left: 70px;
+    font-size: x-large;
+}
+#list{
+    margin-top: 20px;
+   
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.list-element{
+    display: flex;
+    justify-content: space-between;
+    border: 0.1px solid rgb(158, 157, 157);
+    
+    height: 40px;
+}
+.list-element p{
+    margin-left: 15px;
+    margin-top: 8px;
+}
+.list-element i{
+    background-color: red;
+    color: white;
+    width: 15px;
+    padding-left: 4px;
+    margin: 10px;
+}
